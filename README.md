@@ -1,7 +1,8 @@
 - Hey 👋 I'm Elena
-- I am a self-taught Frontend Developer
-- My stack is JavaScript, HTML, CSS, React, Redux
-- Currently learning Node.js, Express.js, MySQL, MongoDB
+- I am a self-taught Web Developer
+- My stack is JavaScript, HTML, CSS, React, Redux, Express, MongoDB, PostgreSQL, Jest, Supertest
+- Fluently speak English and Russian
+
 
 <!---
 epent/epent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
